@@ -13,9 +13,9 @@ This is your individual Game AI assignment project for the whole course. Keep yo
 | Wed 25 Nov, 09:00-15:30 | Stages 2-3, perception and task commitment | Known targets and stable task choices; route-recovery tests may still fail |
 | Thu 26 Nov, 09:00-12:00 | Stages 4-5, recovery and completion clinic | A reliable rival and a short evidence record |
 | Thu afternoon | Independent completion if needed | Finish the current stage and evidence; no taught afternoon session |
-| Fri 27 Nov, 17:00 | Part 1 progress checkpoint | Repository link and exact commit, plus EVIDENCE.md |
+| Fri 27 Nov, 23:59 | Part 1 progress checkpoint | Repository link and exact commit, plus EVIDENCE.md |
 
-Friday has other scheduled activities. Aim to finish during Thursday's clinic; Friday's deadline provides a submission buffer, not an additional AI teaching day. All times are Stockholm time. Part 1 has no separate formal grade. The single assignment has one overall IG/G/VG grade after the final submission on **22 January 2027 at 17:00**. Late or incomplete checkpoint work receives specific feedback and a completion route. Submit what works and identify what remains.
+Friday has other scheduled activities. Aim to finish during Thursday's clinic; Friday's deadline provides a submission buffer, not an additional AI teaching day. All times are Stockholm time. Part 1 has no separate formal grade. The single assignment has one overall IG/G/VG grade after the final submission on **22 January 2027 at 23:59**. Late or incomplete checkpoint work receives specific feedback and a completion route. Submit what works and identify what remains.
 
 You are **not** expected to implement behaviour trees, GOAP, A*, group AI or January's danger response this week. Continue with the current stage instead of trying to complete future systems.
 
@@ -142,7 +142,7 @@ These tests check decision snapshots and game-rule logic. They cannot prove that
 
 ## Part 1 checkpoint
 
-Submit the repository link and exact commit through Omniway's announced submission location by **Friday 27 November at 17:00**. Make sure the teacher can access it. If the submission system requires an upload, provide a clean ZIP of this same project as instructed; do not start another project or repository.
+Submit the repository link and exact commit through Omniway's announced submission location by **Friday 27 November at 23:59**. Make sure the teacher can access it. If the submission system requires an upload, provide a clean ZIP of this same project as instructed; do not start another project or repository.
 
 Your checkpoint consists of the working project and **EVIDENCE.md**. A short live walkthrough or an approximately two-minute recording can demonstrate the result; you do not need an additional report or separate lab hand-ins. Use the live check in class when available. If something is unfinished, submit the current state with a precise help request rather than waiting silently.
 
