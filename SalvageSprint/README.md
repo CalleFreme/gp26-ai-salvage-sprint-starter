@@ -84,6 +84,7 @@ Our baseline is **Unity 6000.3.26f1 (Unity 6.3 LTS)**. If another released 6000.
 **Done:** a playable, committed baseline. Suggested commit: `week1: working baseline`.
 
 ## Stage 1 instructions can be found summarized towards the end of the README. Finish it before or after the Wednesday investigations.
+**Make sure to use the fixed version of `Navigator.cs` and the `NavigationFeedback` class's `Classify` method in `DecisionModel.cs`.**
 
 ## Wednesday: read one decision together
 
@@ -173,6 +174,7 @@ Run the normal scene. Pause while the rival travels and identify its task, targe
 Keep one useful observation for your existing EVIDENCE.md trace. You do not need to transcribe every function or submit these tables separately.
 
 ## Stage 2 — Choose from visible or remembered pickups
+**From here on, you can look at the teacher repo's version of `DecisionPolicy` to get a sense of the fixes we need for our AI. It's a good idea to look at the commit which introduced these changes, so you can see exactly which lines of code changed**
 
 **Goal:** a nearby hidden unknown pickup cannot win merely by being nearer.
 
